@@ -1,0 +1,12 @@
+Hey!
+
+Some issues can be fixed by following instructions.
+
+Q: My bot doesn't reply at all, fix?
+A: Go to repl.it and import the github page: https://discord.com/api/oauth2/authorize?client_id=1089378167053107299&permissions=8&scope=bot then go to your server and copy channel id.
+
+Q: It says "API Key expired"
+A: Go to OpenAI, grab a secret key, paste it and then run it.
+
+Q: My friends are jailbreaking the system, how do I fix this?
+A: Say "Switch back to unjailbroken" or "Switch back to normal please", as well as that you can ban them.
